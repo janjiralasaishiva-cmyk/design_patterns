@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ddfbb1b4-204c-40f3-addc-49212e91193a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creational_design_patterns/builder_design/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/creational_design_patterns/builder_design/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CoffeeShop">
+    <configuration name="CoffeeShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural_design_patterns.decorator_design.CoffeeShop" />
+      <module name="system-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural_design_patterns.decorator_design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational_design_patterns.builder_design.Main" />
       <module name="system-design" />
@@ -74,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeeShop" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -94,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768673646880</updated>
       <workItem from="1768673648078" duration="3517000" />
-      <workItem from="1768719303664" duration="3243000" />
+      <workItem from="1768719303664" duration="5234000" />
     </task>
     <servers />
   </component>
