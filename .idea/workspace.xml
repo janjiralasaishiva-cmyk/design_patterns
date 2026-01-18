@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfbb1b4-204c-40f3-addc-49212e91193a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddfbb1b4-204c-40f3-addc-49212e91193a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Application.executor": "Run",
+    "Application.CoffeeShop.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CoffeeShop">
+  <component name="RunManager" selected="Application.behavioral_design_patterns.strategy_design.Main">
     <configuration name="CoffeeShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structural_design_patterns.decorator_design.CoffeeShop" />
       <module name="system-design" />
@@ -84,8 +83,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="behavioral_design_patterns.strategy_design.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral_design_patterns.strategy_design.Main" />
+      <module name="system-design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral_design_patterns.strategy_design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.behavioral_design_patterns.strategy_design.Main" />
         <item itemvalue="Application.CoffeeShop" />
         <item itemvalue="Application.Main" />
       </list>
@@ -107,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768673646880</updated>
       <workItem from="1768673648078" duration="3517000" />
-      <workItem from="1768719303664" duration="5234000" />
+      <workItem from="1768719303664" duration="5726000" />
     </task>
     <servers />
   </component>
