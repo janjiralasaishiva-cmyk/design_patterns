@@ -82,8 +82,7 @@ public class Car {
 
         // Build method to create a Car object
         public Car build() {
-            return new Car(
-                    this); // Return a new Car created using the builder's values
+            return new Car(this); // Return a new Car created using the builder's values
         }
     }
 }
