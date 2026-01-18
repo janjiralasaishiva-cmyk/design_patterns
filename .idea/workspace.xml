@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfbb1b4-204c-40f3-addc-49212e91193a" name="Changes" comment="" />
+    <list default="true" id="ddfbb1b4-204c-40f3-addc-49212e91193a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     "Application.Application.executor": "Run",
     "Application.CoffeeShop.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.behavioral_design_patterns.strategy_design.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -120,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768673646880</updated>
       <workItem from="1768673648078" duration="3517000" />
-      <workItem from="1768719303664" duration="5726000" />
+      <workItem from="1768719303664" duration="6893000" />
     </task>
     <servers />
   </component>
